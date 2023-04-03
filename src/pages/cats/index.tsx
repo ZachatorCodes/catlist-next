@@ -1,7 +1,9 @@
+import styles from "@/styles/Cats.module.css"
+
 const Cats = () => {
   return (
     <div>
-      <h1>Cats</h1>
+      <h1>All Cats</h1>
     </div>
   );
 };
